@@ -23,6 +23,8 @@ body {
 .mainpage{
     display: grid;
     grid-template-columns: 210px 210px;
+    border-radius: 5px;
+    overflow: hidden;
 }
 
 .main-image img{
